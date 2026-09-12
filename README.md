@@ -27,18 +27,30 @@ A desktop banking application built with **Java Swing** and **MySQL**. It provid
 
 ## Screenshots
 
-Add your screenshots to a `docs/images/` folder and then uncomment or adapt the example below. Using a dashboard image first gives visitors a quick view of the project.
+### Customer experience
 
-```md
-![Customer dashboard](docs/images/customer-dashboard.png)
-```
+<p align="center">
+  <img src="Pictures/Picture1.png" alt="Customer login screen" width="260" />
+  <img src="Pictures/Picture5.png" alt="Customer dashboard showing the account balance and banking options" width="260" />
+</p>
 
-Suggested screenshots to include:
+<p align="center"><em>Customer login and account dashboard</em></p>
 
-- Customer login screen
-- Customer dashboard and account balance
-- Transaction / mini statement screen
-- Admin dashboard
+<p align="center">
+  <img src="Pictures/Picture6.png" alt="Mini statement with transaction history" width="260" />
+  <img src="Pictures/Picture7.png" alt="Funds transfer form" width="260" />
+</p>
+
+<p align="center"><em>Transaction history and funds transfer</em></p>
+
+### Admin experience
+
+<p align="center">
+  <img src="Pictures/Picture12.png" alt="Admin login screen" width="260" />
+  <img src="Pictures/Picture13.png" alt="Admin dashboard" width="260" />
+</p>
+
+<p align="center"><em>Admin login and account-management dashboard</em></p>
 
 ## Tech Stack
 
@@ -170,7 +182,9 @@ The application separates customer registration into three related tables, linke
 
 ## Author
 
-Created as a Java academic project. Add your name, course, university, and contact details here before publishing if you would like to make the repository more personal.
+Created as a Java academic project.
+Hamza Mustafa
+BSCS National Univeristy Of Modern Languages Faisalabad Campus
 
 ## License
 
